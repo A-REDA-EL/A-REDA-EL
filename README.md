@@ -10,9 +10,9 @@ Welcome to my digital den, where I whip up apps for mobile, desktop, and the wil
 
 ## 💼 Tech Toolkit
 
-- **Languages:** JavaScript/TypeScript (React, Node.js), Python (Flask, Django), Java (Spring Boot), Dart(Flutter <3).
-- **Frameworks:** React, Flutter, Spring Boot
-- **Gizmos:** VSCode, Git, Docker
+- **Languages:** Dart (Flutter <3), JavaScript/TypeScript (React, Node.js), Python (Flask, Django), Java (Spring Boot), PHP (Laravel).
+- **Frameworks:** React, Flutter, Spring Boot, Laravel, ...
+- **Gizmos:** VSCode, Git, Docker, ...
 
 ## 🚀 Check Out the Byte-sized Wonders
 
