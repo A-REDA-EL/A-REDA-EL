@@ -10,9 +10,9 @@ Welcome to my digital realm where I bring code to life! I'm a versatile software
 
 ## 🚀 Skills & Tools
 
-- **Languages:** JavaScript (React, Node.js), Python (Flask, Django), Java (Spring Boot)
-- **Frameworks:** React, Flutter, Spring Boot
-- **Tools:** VSCode, Git, Docker
+- **Languages:** JavaScript/TypeScript (React, Node.js), Python (Flask, Django), Java (Spring Boot), Dart(Flutter).
+- **Frameworks:** React, Flutter, Spring Boot...
+- **Tools:** VSCode, Git, Docker...
 
 ## ⚙️ Projects Showcase
 
